@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Margarine-Regular';
+  src: url('../fonts/Margarine-Regular.eot');
+  src: url('../fonts/Margarine-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Margarine-Regular.svg#Margarine-Regular') format('svg'),
+       url('../fonts/Margarine-Regular.ttf') format('truetype'),
+       url('../fonts/Margarine-Regular.woff') format('woff'),
+       url('../fonts/Margarine-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ultra-Regular';
+  src: url('../fonts/Ultra-Regular.eot');
+  src: url('../fonts/Ultra-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Ultra-Regular.svg#Ultra-Regular') format('svg'),
+       url('../fonts/Ultra-Regular.ttf') format('truetype'),
+       url('../fonts/Ultra-Regular.woff') format('woff'),
+       url('../fonts/Ultra-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
