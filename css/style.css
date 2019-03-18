@@ -1,5 +1,5 @@
-.text {text-align: center;}
-.green{background-color: #22B573; width: 1288px; height: 700px; margin: 25px; margin-bottom:25px}
+.text {text-align: center; margin-bottom:10px; text font-style: bold;}
+.green{background-color: #22B573; width: 1288px; height: 710px; margin: 25px; margin-bottom:25px; margin-top: 4px  }
 .d-block {display: inline-block;}
 .navigation-ul {margin-left: 235px; margin-top: 25px; 
 }
